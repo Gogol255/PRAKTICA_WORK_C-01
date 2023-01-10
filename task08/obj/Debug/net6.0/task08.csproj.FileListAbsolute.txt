@@ -1,0 +1,15 @@
+C:\practical_work_С#01\task08\bin\Debug\net6.0\task08.exe
+C:\practical_work_С#01\task08\bin\Debug\net6.0\task08.deps.json
+C:\practical_work_С#01\task08\bin\Debug\net6.0\task08.runtimeconfig.json
+C:\practical_work_С#01\task08\bin\Debug\net6.0\task08.dll
+C:\practical_work_С#01\task08\bin\Debug\net6.0\task08.pdb
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.csproj.AssemblyReference.cache
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.AssemblyInfoInputs.cache
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.AssemblyInfo.cs
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.csproj.CoreCompileInputs.cache
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.dll
+C:\practical_work_С#01\task08\obj\Debug\net6.0\refint\task08.dll
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.pdb
+C:\practical_work_С#01\task08\obj\Debug\net6.0\task08.genruntimeconfig.cache
+C:\practical_work_С#01\task08\obj\Debug\net6.0\ref\task08.dll

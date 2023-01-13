@@ -18,4 +18,4 @@ bool Check(int val1)
   }
   return t == val2;
 }
-Console.WriteLine(Check(14212));
+Console.WriteLine(Check(23432));

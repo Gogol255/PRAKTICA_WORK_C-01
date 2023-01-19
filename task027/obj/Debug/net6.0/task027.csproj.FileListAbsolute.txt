@@ -1,0 +1,15 @@
+C:\practical_work_С#01\task027\bin\Debug\net6.0\task027.exe
+C:\practical_work_С#01\task027\bin\Debug\net6.0\task027.deps.json
+C:\practical_work_С#01\task027\bin\Debug\net6.0\task027.runtimeconfig.json
+C:\practical_work_С#01\task027\bin\Debug\net6.0\task027.dll
+C:\practical_work_С#01\task027\bin\Debug\net6.0\task027.pdb
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.csproj.AssemblyReference.cache
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.GeneratedMSBuildEditorConfig.editorconfig
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.AssemblyInfoInputs.cache
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.AssemblyInfo.cs
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.csproj.CoreCompileInputs.cache
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.dll
+C:\practical_work_С#01\task027\obj\Debug\net6.0\refint\task027.dll
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.pdb
+C:\practical_work_С#01\task027\obj\Debug\net6.0\task027.genruntimeconfig.cache
+C:\practical_work_С#01\task027\obj\Debug\net6.0\ref\task027.dll

@@ -17,10 +17,12 @@ void Cube(int[] cube)
   }
 }
 
-void PrintArry(int[] coll){
+void PrintArry(int[] coll)
+{
   int count = coll.Length;
   int index = 0;
-  while(index < count){
+  while(index < count)
+  {
     Console.Write(coll[index]+ " ");
     index++;
   }

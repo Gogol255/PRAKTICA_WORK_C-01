@@ -1,0 +1,15 @@
+C:\practical_work_С#01\task43\bin\Debug\net6.0\task43.exe
+C:\practical_work_С#01\task43\bin\Debug\net6.0\task43.deps.json
+C:\practical_work_С#01\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\practical_work_С#01\task43\bin\Debug\net6.0\task43.dll
+C:\practical_work_С#01\task43\bin\Debug\net6.0\task43.pdb
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.dll
+C:\practical_work_С#01\task43\obj\Debug\net6.0\refint\task43.dll
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.pdb
+C:\practical_work_С#01\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\practical_work_С#01\task43\obj\Debug\net6.0\ref\task43.dll
